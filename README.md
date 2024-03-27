@@ -1,2 +1,2 @@
 # Desafío - Definición de tablas
-Desafío Evaluado para Desafio Latam.
+Desafío Evaluado para DesafioLatam.
